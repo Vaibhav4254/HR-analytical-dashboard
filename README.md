@@ -5,7 +5,7 @@
 2.	Attrition rate is 16.2% which means that out of 1413 employees, 229 employees left the company
  
 ----------------------------------
-
+v
  # Decription
  ## Let's break down the different sections of the dashboard
 -	**Employee Count:** There are total 1413 employees, out of which 145 are male and 84 are female.
